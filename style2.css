@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+    background-color: #e667af;
+    color: ffffff;
+    padding: 12px 20px 20px 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    text-align: left;    
+}
+
+.gfgdf {
+    margin-top: 40px;
+}
